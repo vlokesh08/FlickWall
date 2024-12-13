@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "flick-frontend",
-    "slug": "flick-frontend",
+    "name": "FlickWall",
+    "slug": "flick-wall",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
