@@ -1,20 +1,66 @@
-# Welcome to your Expo app 👋
+# FlickWall - React Native Image Gallery App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+  <img src="assets/images/icon.png" alt="FlickWall Logo" width="200"/>
+</p>
 
-## Get started
+FlickWall is a modern, feature-rich image gallery application built with React Native and Expo. It provides users with a seamless experience to browse, search, and save their favorite images.
 
-1. Install dependencies
+## 🌟 Features
 
-   ```bash
-   npm install
-   ```
+- 📱 Cross-platform (iOS & Android)
+- 🖼️ High-quality image browsing
+- 🔍 Advanced search functionality
+- ❤️ Save favorite images
+- 🌓 Dark/Light mode support
+- ♾️ Infinite scroll
+- 📱 Responsive design
+- 🚀 Fast image loading with caching
 
-2. Start the app
+## 🛠️ Technologies
 
-   ```bash
-    npx expo start
-   ```
+- React Native
+- Expo
+- TypeScript
+- NativeWind (TailwindCSS)
+- React Navigation
+- Expo Router
+- React Native Reanimated
+
+## 📋 Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js (v16 or higher)
+- npm or yarn
+- Expo CLI (`npm install -g expo-cli`)
+- iOS Simulator (for Mac users) or Android Studio (for Android development)
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/flickwall.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd flickwall
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the app:
+
+```bash
+npx expo start
+```
 
 In the output, you'll find options to open the app in a
 
