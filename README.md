@@ -1,7 +1,8 @@
 # FlickWall - React Native Image Gallery App
 
 <p align="center">
-  <img src="assets/images/icon.png" alt="FlickWall Logo" width="200"/>
+ ![Flickwall](https://github.com/user-attachments/assets/6e46e592-9dbf-45e5-971f-9ecaa25e4fcd)
+
 </p>
 
 FlickWall is a modern, feature-rich image gallery application built with React Native and Expo. It provides users with a seamless experience to browse, search, and save their favorite images.
@@ -41,7 +42,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/flickwall.git
+git clone https://github.com/vlokesh08/FlickWall.git
 ```
 
 2. Navigate to the project directory:
