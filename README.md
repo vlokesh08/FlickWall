@@ -1,9 +1,7 @@
 # FlickWall - React Native Image Gallery App
 
-<p align="center">
- ![Flickwall](https://github.com/user-attachments/assets/6e46e592-9dbf-45e5-971f-9ecaa25e4fcd)
+![Flickwall](https://github.com/user-attachments/assets/7ab66ad1-8eed-4d33-bfd2-d18c9e450703)
 
-</p>
 
 FlickWall is a modern, feature-rich image gallery application built with React Native and Expo. It provides users with a seamless experience to browse, search, and save their favorite images.
 
